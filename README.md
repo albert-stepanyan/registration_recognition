@@ -13,4 +13,5 @@
 
 Время обработки одного изображения не более 5сек на типовом сервере:
 
-![Тестовое задание на вакансию _Разработчик CV__Таблица](https://github.com/albert-stepanyan/registration_recognition/assets/158582989/79b217f7-6b59-4261-b63e-2eda09141e47)
+![Тестовое задание на вакансию _Разработчик CV__Таблица](https://github.com/albert-stepanyan/registration_recognition/assets/158582989/8843ef53-0d09-426f-b40d-b161eccc43a9)
+
