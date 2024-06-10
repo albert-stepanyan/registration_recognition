@@ -7,4 +7,5 @@
 
 ## Примеры работы возможной реализации
 
+![Тестовое задание на вакансию _Разработчик CV__Страница_1](https://github.com/albert-stepanyan/registration_recognition/assets/158582989/cf9249ee-8a1d-45a5-8752-b753c9a69564)
 
